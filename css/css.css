@@ -1,0 +1,411 @@
+.q{
+  position: absolute;
+  left: 4.4%;
+  top: 8.3%;
+}
+.w{
+  position: absolute;
+  width: 9.5%;
+  left: 85%;
+  top: 8.2%;
+  font-size: 16px;
+  border-radius: 40px;
+  font-family: "Open Sans";
+  height: 4.5%;
+  background: white;
+  text-transform: capitalize;
+  border: 2px solid hsl(321, 100%, 78%);
+  color: hsl(321, 100%, 78%);
+  cursor: pointer;
+}
+.e{
+  position: absolute;
+      font-family: "Poppins";
+      font-size: 48px;
+      font-weight: 700;
+      left: 13.8%;
+      top: 33.8%;
+}
+.r{
+  position: absolute;
+  font-family: "Open Sans";
+  font-size: 20px;
+  font-weight: 400;
+  left: 27.8%;
+  top: 45.3%;
+  width: 42%;
+  text-align: center;
+  line-height: 29px;
+}
+.t{
+  position: absolute;
+  width: 28%;
+  left: 35%;
+  top: 62%;
+  font-size: 23.4px;
+  border-radius: 40px;
+  font-family: "Open Sans";
+  height: 8.4%;
+  font-weight: 700;
+  background: hsl(322, 100%, 66%);
+  text-transform: capitalize;
+  color: white;
+  cursor: pointer;
+  border: none;
+  box-shadow: 0px 8px 7px lightgrey;
+  letter-spacing: -1.4px;
+}
+.y{
+  position: absolute;
+    top: 82.2%;
+    left: 13%;
+}
+.u{
+  font-family: "Open Sans";
+      font-size: 97px;
+      font-weight: 700;
+      position: absolute;
+      top: 171%;
+      left: 18.4%;
+}
+.i{
+  font-family: "Open Sans";
+  font-size: 97px;
+  font-weight: 700;
+  position: absolute;
+  top: 171%;
+  left: 60%;
+}
+.o{
+  position: absolute;
+  top: 174.1%;
+  left: 60.8%;
+  width: 2.75%;
+}
+.p{
+  position: absolute;
+    top: 173.5%;
+    left: 18.7%;
+}
+.a{
+  position: absolute;
+      font-family: "Open Sans";
+      font-size: 25px;
+      font-weight: 400;
+      left: 6.7%;
+      top: 190.3%;
+      width: 42%;
+      text-align: center;
+      color: gray;
+      line-height: 29px;
+}
+.s{
+  position: absolute;
+    font-family: "Open Sans";
+    font-size: 25px;
+    font-weight: 400;
+    left: 48.2%;
+    top: 190.3%;
+    width: 42%;
+    text-align: center;
+    color: gray;
+    line-height: 29px;
+}
+body{
+  overflow-x: hidden;
+}
+.d{
+  position: absolute;
+  font-family: "Poppins";
+  font-size: 40px;
+  font-weight: 700;
+  left: 9%;
+  top: 246.3%;
+}
+.f{
+  position: absolute;
+  font-family: "Open Sans";
+  font-size: 15.5px;
+  font-weight: 600;
+  left: 9%;
+  top: 257.4%;
+  color: hsl(192, 100%, 9%);
+  width: 35%;
+}
+.g{
+  position: absolute;
+  left: 54.3%;
+  top: 235.4%;
+  width: 37%;
+}
+.h{
+  position: absolute;
+  left: 9.3%;
+  top: 322%;
+  width: 37%;
+}
+.j{
+  position: absolute;
+  font-family: "Poppins";
+  font-size: 40px;
+  font-weight: 700;
+  left: 56%;
+  top: 332%;
+}
+.k{
+  position: absolute;
+  font-family: "Open Sans";
+  font-size: 15.5px;
+  font-weight: 600;
+  left: 56%;
+  top: 342.5%;
+  color: hsl(192, 100%, 9%);
+  width: 38%;
+}
+.l{
+  position: absolute;
+  font-family: "Poppins";
+  font-size: 40px;
+  font-weight: 700;
+  left: 8.5%;
+  top: 405%;
+}
+.z{
+  position: absolute;
+  font-family: "Open Sans";
+  font-size: 15.5px;
+  font-weight: 600;
+  left: 8.5%;
+  top: 416%;
+  color: hsl(192, 100%, 9%);
+  width: 38%;
+}
+.x{
+  position: absolute;
+  font-family: "Open Sans";
+  font-size: 15.5px;
+  font-weight: 600;
+  left: 54%;
+  top: 395%;
+  color: hsl(192, 100%, 9%);
+  width: 38%;
+}
+.c{
+  position: absolute;
+  font-family: "Poppins";
+  font-size: 39px;
+  font-weight: 700;
+  left: 27.3%;
+  top: 472%;
+}
+.v{
+  position: absolute;
+      width: 28%;
+      left: 36.7%;
+      top: 485.5%;
+      font-size: 23.4px;
+      border-radius: 40px;
+      font-family: "Open Sans";
+      height: 8.4%;
+      font-weight: 400;
+      background: hsl(322, 100%, 66%);
+      text-transform: capitalize;
+      color: white;
+      cursor: pointer;
+      border: none;
+      box-shadow: 0px 8px 7px lightgrey;
+      letter-spacing: -1.4px;
+}
+.b{
+  position: absolute;
+      top: 479%;
+      width: 142%;
+      background: hsl(192, 100%, 9%);
+      left: -23%;
+      height: 70%;
+      z-index: -1;
+}
+body::after{
+  content: "";
+  position: absolute;
+  top: 549%;
+  background: hsl(192, 100%, 9%);
+  height: 41%;
+  width: 100%;
+  left: 00%;
+  z-index: -1
+}
+.n{
+  position: absolute;
+      top: 543%;
+      left: 8.5%;
+}
+.m{
+  position: absolute;
+      font-family: "Open Sans";
+      font-size: 15.5px;
+      font-weight: 400;
+      left: 9%;
+      top: 548.2%;
+      color: white;
+      line-height: 25.5px;
+      width: 25%;
+}
+.qw{
+  position: absolute;
+      left: 9%;
+      top: 560.5%;
+}
+.we{
+  position: absolute;
+      font-family: "Open Sans";
+      font-size: 15.5px;
+      font-weight: 400;
+      left: 11.5%;
+      top: 558.5%;
+      color: white;
+      line-height: 25.5px;
+      width: 25%;
+  }
+.rt{
+  position: absolute;
+      font-family: "Open Sans";
+      font-size: 15.5px;
+      font-weight: 400;
+      left: 11.5%;
+      top: 563%;
+      color: white;
+      line-height: 25.5px;
+      width: 25%;
+  }
+.er{
+  position: absolute;
+left: 9%;
+top: 565%;
+}
+.ty{
+  position: absolute;
+      left: 9%;
+      top: 576%;
+      cursor: pointer;
+      z-index: 1;
+      background: black;
+      padding: 1px;
+      border-radius: 5px;
+}
+.yu{
+  position: absolute;
+      left: 11.5%;
+      top: 576%;
+      cursor: pointer;
+      z-index: 1;
+      background: black;
+      padding: 1px;
+      border-radius: 5px;
+}
+.ui{
+  position: absolute;
+  left: 14%;
+  top: 576%;
+  z-index: 1;
+  background: black;
+  padding: 1px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.io{
+  position: absolute;
+  left: 55%;
+  top: 541%;
+  font-size: 23px;
+  font-family: "Open Sans";
+  color: white;
+  text-transform: uppercase;
+}
+.op{
+  position: absolute;
+  font-family: "Open Sans";
+  font-size: 14.5px;
+  font-weight: 400;
+  left: 55%;
+  top: 547%;
+  color: white;
+  line-height: 25.5px;
+  width: 25%;
+    }
+.pa{
+  position: absolute;
+  font-family: "Open Sans";
+  font-size: 14.5px;
+  font-weight: 400;
+  left: 55%;
+  top: 560.3%;
+  border-radius: 10px;
+  cursor: pointer;
+  height: 46px;
+  outline: none;
+  width: 314px;
+    }
+    .sd{
+      position: absolute;
+      width: 11.5%;
+      left: 80%;
+      top: 560.5%;
+      font-size: 16px;
+      border-radius: 10px;
+      font-family: "Open Sans";
+      height: 5.5%;
+      background: hsl(322, 100%, 66%);
+      text-transform: capitalize;
+      border: none;
+      color: white;
+      cursor: pointer;
+    }
+    .df{
+      position: absolute;
+      left: 14%;
+      top: 576%;
+      background: #00c8fd;
+      padding: 1px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    .fg{
+      position: absolute;
+          left: 11.5%;
+          top: 576%;
+      background: #00c8fd;
+      padding: 1px;
+      border-radius: 5px;
+        cursor: pointer;
+    }
+    .gh{
+      position: absolute;
+      left: 9%;
+      top: 576%;
+      background: #00c8fd;
+      padding: 1px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    .ui:hover{
+      z-index: -2;
+    }
+    .yu:hover{
+      z-index: -2;
+    }
+    .ty:hover{
+      z-index: -2;
+    }
+ .sd:hover{
+   background: hsl(321, 100%, 78%);
+ }
+ .v:hover{
+   background: hsl(321, 100%, 78%);
+ }
+ .t:hover{
+   background: hsl(321, 100%, 78%);
+ }
+ .w:hover{
+   border: 1px solid hsl(321, 100%, 78%);
+ }
